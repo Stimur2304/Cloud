@@ -1,0 +1,40 @@
+.finance__img img{
+    margin-top: 227px;
+    margin-bottom: 143px;
+}
+.finance__info h1{
+    width: 443px;
+    color: #000;
+font-family: Roboto;
+font-size: 57px;
+font-style: normal;
+font-weight: 700;
+line-height: 57.6px; /* 101.053% */
+margin-top: 196px;
+}
+
+.finance__info p{
+    width: 515px;
+    color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.6px; /* 153% */
+margin-top: 33px;
+margin-bottom: 126px;
+}
+.finance__content{
+    display: flex;
+    justify-content: space-between;
+}
+
+.finance__info p span{
+    color: #335C81;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 30.6px;
+text-decoration-line: underline;
+}

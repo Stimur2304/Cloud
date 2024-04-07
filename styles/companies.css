@@ -1,0 +1,25 @@
+.conteiner .companies__content {
+  padding-top: 108px;
+  padding-bottom: 54px;
+  padding-left: 145px;
+  padding-right: 260px;
+}
+.companies__info h1 {
+  width: 236px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 27px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 36px; /* 133.333% */
+  margin-top: 21px;
+  margin-right: 99px;
+}
+.companies__content {
+  display: flex;
+  justify-content: space-between;
+}
+.companies__logo {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}

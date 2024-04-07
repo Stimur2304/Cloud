@@ -1,0 +1,55 @@
+.frame__info h1 {
+  width: 491px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 77px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 82.8px; /* 107.532% */
+}
+.frame__info p {
+  width: 476px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.6px; /* 153% */
+}
+
+.frame__info h2 {
+  margin-top: 79px;
+}
+.frame__info h3 {
+  width: 159px;
+  height: 61px;
+  border-radius: 100px;
+  background: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 27px;
+}
+
+.frame__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.frame__img img {
+  margin-bottom: 50px;
+}
+@media (max-width: 1200px) {
+  .frame__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+}
+@media (max-width: 900px) {
+  .frame__content {
+    margin-left: 500px;
+  }
+}

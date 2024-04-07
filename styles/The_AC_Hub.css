@@ -1,0 +1,40 @@
+.The_AC_Hub__info h1 {
+  width: 343px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 58px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 57.6px; /* 99.31% */
+  margin-top: 190px;
+}
+.The_AC_Hub__info h2 {
+  width: 547px;
+  color: #000;
+  font-family: Roboto;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30.6px; /* 153% */
+  margin-top: 40px;
+}
+.The_AC_Hub__info p {
+  width: 140px;
+  height: 50px;
+  border-radius: 100px;
+  background: #f7b2b7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 79px;
+}
+.The_AC_Hub__content {
+  display: flex;
+  justify-content: space-between;
+}
+.The_AC_Hub__img img {
+  margin-top: 107px;
+}
+.conteiner .The_AC_Hub__content {
+  padding-top: 78px;
+}
